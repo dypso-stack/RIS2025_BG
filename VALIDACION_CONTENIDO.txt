@@ -1,0 +1,7 @@
+Paginas de contenido: 23
+Capitulos principales: 12
+Anexos: 5
+Elementos fuente p/li/th/td: 9988
+Elementos preservados p/li/th/td: 9988
+Imagenes copiadas: 48
+Diferencia de elementos: 0
