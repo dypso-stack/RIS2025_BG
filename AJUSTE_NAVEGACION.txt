@@ -1,0 +1,1 @@
+Panel lateral normalizado: muestra exclusivamente subcapítulos correspondientes a títulos de nivel 2 (section.level2 > h2). Se excluyeron todos los títulos de nivel 3 y niveles inferiores.
